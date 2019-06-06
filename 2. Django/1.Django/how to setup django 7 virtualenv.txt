@@ -1,3 +1,6 @@
+# Python version 3.6
+___
+
 1. Download & Install Python 
 --   www.python.org
 2. open cmd/your best IDE and Terminal
@@ -11,4 +14,3 @@ envname\Scripts\activate     <-------- activate virtualenv
 pip install django==2.0
 
 
-#for python version 3.6
