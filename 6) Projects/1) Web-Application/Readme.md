@@ -1,1 +1,1 @@
-![Screenshot](prj structure.png)
+![Screenshot](prj structure.PNG)
