@@ -1,6 +1,6 @@
 <p align="center">
-   <img src="https://github.com/VinayChaudhari1996/Lighthouse/6) Projects/1) Web-Application/prj structure.png" width="500" >
+   <img src="https://github.com/VinayChaudhari1996/Lighthouse/blob/master/6)%20Projects/1)%20Web-Application/prj%20structure.PNG?raw=true" width="500" >
 </p>
 
-# Lighthouse
+# E-learning Platform using Flask | Deep Learning
 Project Workflow
